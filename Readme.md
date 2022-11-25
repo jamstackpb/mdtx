@@ -1,4 +1,4 @@
-# MDtx [![NPM Version](https://img.shields.io/npm/v/mdtx.svg?style=flat)](https://www.npmjs.com/package/mdtx) [![NPM Version](https://img.shields.io/github/checks-status/aexol-studio/mdtx/main)](https://www.npmjs.com/package/mdtx) [![NPM Version](https://img.shields.io/github/last-commit/aexol-studio/mdtx)](https://github.com/aexol-studio/mdtx)
+# MDtx [![NPM Version](https://img.shields.io/npm/v/mdtx.svg?style=flat)](https://www.npmjs.com/package/mdtx) [![NPM Version](https://img.shields.io/github/checks-status/aexol-studio/mdtx/main)](https://www.npmjs.com/package/mdtx) [![NPM Version](https://img.shields.io/github/last-commit/aexol-studio/mdtx)](https://github.com/aexol-studio/mdtx) yyyyy
 
 Inspired by generative programming. I was learning Elm language at home as usual in the evening and I was missing all that generative stuff from Elm libs in TS.
 
